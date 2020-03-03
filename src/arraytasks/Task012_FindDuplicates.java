@@ -2,7 +2,7 @@ package arraytasks;
 
 import java.util.Arrays;
 
-public class Task012_FindDuplicats {
+public class Task012_FindDuplicates {
 
     public static void main(String[] args) {
         
