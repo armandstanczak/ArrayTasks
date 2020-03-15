@@ -16,7 +16,11 @@ public class Task019_AddMatrix {
         
         for (int i = 0; i <= arr3.length - 1; i++) {
             for (int j = 0; j<= arr3[0].length - 1; j++) {
+                if (j == arr3[0].length - 1) {
+                    System.out.print(arr3[i][j]);
+                } else {
                 System.out.print(arr3[i][j] + ", ");
+                }
             }
             System.out.println("");
         }
