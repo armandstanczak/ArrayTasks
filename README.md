@@ -1,6 +1,6 @@
-# Set of excersices from w3resource
+# Set of exercises from w3resource
 
-This repository covers the excersices from w3resource - "Array"
+This repository covers the exercises from w3resource - "Array"
 
 They were all completed using NetBeans
 
